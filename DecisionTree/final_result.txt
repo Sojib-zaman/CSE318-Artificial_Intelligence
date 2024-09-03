@@ -1,0 +1,302 @@
+Accuracy on test file : 94.9109
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.2601
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.3754
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.0437
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.9103
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.3343
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.6767
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.5484
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.865
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 91.8033
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.7368
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 90.5325
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.75
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.7945
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.5574
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.638
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.2153
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.8012
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.1905
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1358
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.5402
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.9683
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.012
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.2424
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.4407
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.2941
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.3131
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.5402
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.7838
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.0931
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 97.076
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 91.5698
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.8994
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.2849
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1691
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.3114
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.6108
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.3964
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.4861
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.9759
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1011
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.3552
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.1232
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.1872
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.1751
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 91.5408
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.0701
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.0653
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.1905
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.0114
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.0653
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.3662
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1896
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.378
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.5574
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.4954
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.5714
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1011
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.9297
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.913
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.068
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.7222
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.1751
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.389
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.5182
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.2197
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.2394
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.8023
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.6232
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.125
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.3079
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.2935
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.3295
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.131
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.549
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.75
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.2945
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.2149
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.3953
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.437
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.4247
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.4638
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.0784
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.0836
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 92.219
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.994
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 90.411
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.1087
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 96.3585
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.2663
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.5393
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.6779
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.2773
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.1799
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 94.9853
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 90.6166
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 93.6639
+Accuracy on training file : 100
+--------------------------------------------
+Accuracy on test file : 95.0147
+Accuracy on training file : 100
+--------------------------------------------
+Average test accuracy : 94.0642
+Standard deviation of accuracy : 1.34229

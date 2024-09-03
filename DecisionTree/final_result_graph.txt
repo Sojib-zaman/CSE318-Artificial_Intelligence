@@ -1,0 +1,82 @@
+For training data size 0.98
+Accuracy on test file : 90.4762
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 100
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 89.7436
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 94.8718
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 88.8889
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 85.2941
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 90
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 97.0588
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 93.617
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 89.1892
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 94.5946
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 93.5484
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 97.2222
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 95.3488
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 100
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 97.2973
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 100
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 93.3333
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 95.6522
+Accuracy on training file : 100
+--------------------------------------------
+For training data size 0.98
+Accuracy on test file : 96.1538
+Accuracy on training file : 100
+--------------------------------------------
+Average test accuracy : 94.1145
+ Standard deviation of accuracy : 4.00649
